@@ -1,0 +1,9 @@
+{
+  "name": "microfront-example",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r --parallel serve",
+    "build": "pnpm -r build"
+  },
+  "devDependencies": {}
+}
