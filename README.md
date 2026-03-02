@@ -72,6 +72,3 @@ pnpm install --prefer-frozen-lockfile
 pnpm store prune
 pnpm install
 ```
-
-¿Qué sigue?
-- Si quieres, puedo commitear el `README.md` por ti o añadir instrucciones específicas para Docker/CI.
